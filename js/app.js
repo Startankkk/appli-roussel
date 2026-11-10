@@ -193,7 +193,7 @@ function afficherResultatFleur(fleur, scores) {
   if (imageFleur && conteneurImage) {
     conteneurImage.classList.remove('hidden');
     imageFleur.onerror = function () {
-      // Si le SVG n'existe pas (ex. orchidée), masquer proprement le cadre pour éviter une icône brisée
+      // Si le SVG n'existe pas, masquer proprement le cadre pour éviter une icône brisée
       conteneurImage.classList.add('hidden');
     };
     imageFleur.onload = function () {
