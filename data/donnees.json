@@ -3,7 +3,7 @@
     "id": "tournesol",
     "nom": "Tournesol",
     "titre": "Symbole de joie et de chaleur",
-    "description": "Vous êtes optimiste et vous entraînez les autres dans votre bonne humeur. Vous rayonnez telle une source de lumière et de chaleur bienveillante.",
+    "description": "Vous êtes optimiste et vous entraînez les autres dans votre bonne humeur. Le tournesol symbolise la joie et la chaleur et suit le soleil.",
     "conseil": "Offrez-lui beaucoup de lumière et changez l'eau fraîche chaque jour dans le vase.",
     "a_verifier": []
   },
@@ -11,7 +11,7 @@
     "id": "lavande",
     "nom": "Lavande",
     "titre": "Calme et douceur",
-    "description": "Vous aimez prendre votre temps et savourer les petits moments du quotidien. Vous diffusez le calme et la sérénité des étés provençaux.",
+    "description": "Vous aimez prendre votre temps et savourer les petits moments. La lavande évoque le calme et la douceur des étés provençaux.",
     "conseil": "Elle se conserve très bien en bouquet sec, suspendue la tête en bas.",
     "a_verifier": []
   },
@@ -19,7 +19,7 @@
     "id": "pivoine",
     "nom": "Pivoine",
     "titre": "Généreuse et pleine de vie",
-    "description": "Généreux et plein de vie, vous êtes fait pour les grandes tablées et les moments de convivialité. Vous symbolisez la prospérité et le bonheur partagé.",
+    "description": "Vous découvrez la pivoine, généreuse et pleine de vie, fleur des grandes tablées. Elle symbolise la prospérité et le bonheur partagé.",
     "conseil": "Coupez les tiges en biseau et changez l'eau souvent.",
     "a_verifier": []
   },
@@ -27,7 +27,7 @@
     "id": "orchidee",
     "nom": "Orchidée",
     "titre": "Raffinée et mystérieuse",
-    "description": "Raffiné et mystérieux, vous cultivez le goût du détail et des belles choses. Vous incarnez une élégance subtile et singulière.",
+    "description": "Vous avez le goût du détail et des belles choses. L'orchidée, raffinée et mystérieuse, symbolise l'élégance.",
     "conseil": null,
     "a_verifier": []
   }
