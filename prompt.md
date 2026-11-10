@@ -71,3 +71,5 @@ Distingue les contrôles du code des vérifications réelles dans le navigateur.
 Ne réalise les bonus que s’ils sont explicitement prévus dans `prompt.md`, après validation du minimum.
 
 Commence par lire `prompt.md`, faire un état des lieux bref, puis proposer les tests de la première fonctionnalité manquante ou incorrecte.
+
+Fait Par Abdellah Yanis Thibaud
